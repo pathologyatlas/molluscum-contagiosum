@@ -22,11 +22,11 @@ source("./R/language.R")
 **Molluscum contagiosum**
 
 
-[https://pathologyatlas.github.io/molluscum-contagiosum/HE.html](https://pathologyatlas.github.io/molluscum-contagiosum/HE.html)
+[https://images.patolojiatlasi.com/molluscum-contagiosum/HE.html](https://images.patolojiatlasi.com/molluscum-contagiosum/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/molluscum-contagiosum/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/molluscum-contagiosum/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -36,11 +36,11 @@ Mikroskopik görüntüleri inceleyin:
 **Molluscum contagiosum**
 
 
-[https://pathologyatlas.github.io/molluscum-contagiosum/HE.html](https://pathologyatlas.github.io/molluscum-contagiosum/HE.html)
+[https://images.patolojiatlasi.com/molluscum-contagiosum/HE.html](https://images.patolojiatlasi.com/molluscum-contagiosum/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/molluscum-contagiosum/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/molluscum-contagiosum/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
